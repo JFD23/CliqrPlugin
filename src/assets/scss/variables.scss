@@ -2,14 +2,14 @@ $studip-font-size-base: 14px;
 $studip-line-height-base: 20px;
 
 $studip-text-color: #000 !default;
-$studip-base-color: #28497c !default;
-$studip-base-gray: #3c454e !default;
+$studip-base-color: #2f3229 !default;
+$studip-base-gray: #9e9e9e !default;
 
-$studip-brand-color-dark: #28497c !default;
-$studip-brand-color-darker: #1f3f70 !default;
+$studip-brand-color-dark: #2f3229 !default;
+$studip-brand-color-darker: #2f3229 !default;
 
-$studip-brand-color-light: #36598f !default;
-$studip-brand-color-lighter: #899ab9 !default;
+$studip-brand-color-light: #9e9e9e !default;
+$studip-brand-color-lighter: #e0e0e0 !default;
 
 $studip-base-color-80: mix($studip-base-color, white, 80%);
 $studip-base-color-60: mix($studip-base-color, white, 60%);
