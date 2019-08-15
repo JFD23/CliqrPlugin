@@ -3,3 +3,6 @@
 /vendor/*
 /composer.lock
 /node_modules/*
+*.zip
+*.phar
+*.log
